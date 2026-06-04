@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ram-corsair-16gb-ddr5-5600",
+    "brand": "Corsair",
+    "name": "Vengeance 16GB (2x8GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 16,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 36,
+    "price": 64.99
+  },
+  {
+    "id": "ram-corsair-32gb-ddr5-6000",
+    "brand": "Corsair",
+    "name": "Vengeance 32GB (2x16GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 32,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 30,
+    "price": 99.99
+  },
+  {
+    "id": "ram-corsair-64gb-ddr5-6000",
+    "brand": "Corsair",
+    "name": "Vengeance 64GB (2x32GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 64,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 32,
+    "price": 199.99
+  },
+  {
+    "id": "ram-gskill-16gb-ddr5-5600",
+    "brand": "G.Skill",
+    "name": "Ripjaws S5 16GB (2x8GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 16,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 36,
+    "price": 59.99
+  },
+  {
+    "id": "ram-gskill-32gb-ddr5-6000",
+    "brand": "G.Skill",
+    "name": "Flare X5 32GB (2x16GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 32,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 32,
+    "price": 94.99
+  },
+  {
+    "id": "ram-gskill-64gb-ddr5-6000",
+    "brand": "G.Skill",
+    "name": "Trident Z5 Neo RGB 64GB (2x32GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 64,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 30,
+    "price": 219.99
+  },
+  {
+    "id": "ram-kingston-16gb-ddr5-5600",
+    "brand": "Kingston",
+    "name": "FURY Beast 16GB (2x8GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 16,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 36,
+    "price": 64.99
+  },
+  {
+    "id": "ram-kingston-32gb-ddr5-6000",
+    "brand": "Kingston",
+    "name": "FURY Beast 32GB (2x16GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 32,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 36,
+    "price": 96.99
+  },
+  {
+    "id": "ram-kingston-64gb-ddr5-6000",
+    "brand": "Kingston",
+    "name": "FURY Beast 64GB (2x32GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 64,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 36,
+    "price": 189.99
+  },
+  {
+    "id": "ram-teamgroup-16gb-ddr5-5600",
+    "brand": "TEAMGROUP",
+    "name": "T-Force Vulcan 16GB (2x8GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 16,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 40,
+    "price": 54.99
+  },
+  {
+    "id": "ram-teamgroup-32gb-ddr5-6000",
+    "brand": "TEAMGROUP",
+    "name": "T-Force Delta RGB 32GB (2x16GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 32,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 30,
+    "price": 104.99
+  },
+  {
+    "id": "ram-teamgroup-64gb-ddr5-6000",
+    "brand": "TEAMGROUP",
+    "name": "T-Force Delta RGB 64GB (2x32GB) DDR5-6000",
+    "type": "DDR5",
+    "capacity_gb": 64,
+    "modules": 2,
+    "speed_mt": 6000,
+    "cas_latency": 34,
+    "price": 209.99
+  },
+  {
+    "id": "ram-crucial-16gb-ddr5-5600",
+    "brand": "Crucial",
+    "name": "Pro 16GB (2x8GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 16,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 46,
+    "price": 52.99
+  },
+  {
+    "id": "ram-crucial-32gb-ddr5-5600",
+    "brand": "Crucial",
+    "name": "Pro 32GB (2x16GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 32,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 46,
+    "price": 84.99
+  },
+  {
+    "id": "ram-crucial-64gb-ddr5-5600",
+    "brand": "Crucial",
+    "name": "Pro 64GB (2x32GB) DDR5-5600",
+    "type": "DDR5",
+    "capacity_gb": 64,
+    "modules": 2,
+    "speed_mt": 5600,
+    "cas_latency": 46,
+    "price": 169.99
+  }
+]

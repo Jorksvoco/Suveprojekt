@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SuveProjekt PC Builder</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-badge">PC</div>
+        <div>
+          <h1>SuveProjekt PC Builder</h1>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <button id="saveBuildBtn" class="btn btn-primary">Save Build</button>
+        <button id="loadBuildBtn" class="btn btn-secondary">Load Build</button>
+        <button id="resetBuildBtn" class="btn btn-danger">Reset</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="builder-panel card">
+        <div class="section-header">
+          <div>
+            <h2>Your Build</h2>
+            <p>Select parts and validate compatibility.</p>
+          </div>
+          <div class="build-name-wrap">
+            <label for="buildName">Build Name</label>
+            <input id="buildName" type="text" placeholder="My Build" />
+          </div>
+        </div>
+
+        <div id="compatibilityBanner" class="compatibility-banner neutral">
+          Loading parts...
+        </div>
+
+        <div class="table-wrap">
+          <table class="parts-table">
+            <thead>
+              <tr>
+                <th>Component</th>
+                <th>Selection</th>
+                <th>Details</th>
+                <th>Price</th>
+                <th>Power</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="partsTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <aside class="summary-panel card">
+        <div class="section-header">
+          <div>
+            <h2>Build Summary</h2>
+            <p>Totals and compatibility notes.</p>
+          </div>
+        </div>
+
+        <div class="summary-grid">
+          <div class="summary-stat">
+            <span class="label">Total Price</span>
+            <strong id="totalPrice">$0.00</strong>
+          </div>
+          <div class="summary-stat">
+            <span class="label">Estimated Wattage</span>
+            <strong id="totalWattage">0 W</strong>
+          </div>
+          <div class="summary-stat">
+            <span class="label">PSU Headroom</span>
+            <strong id="psuHeadroom">—</strong>
+          </div>
+          <div class="summary-stat">
+            <span class="label">Selected Parts</span>
+            <strong id="selectedCount">0</strong>
+          </div>
+        </div>
+
+        <div class="summary-block">
+          <h3>Compatibility Notes</h3>
+          <ul id="issuesList" class="issues-list">
+            <li>No checks yet.</li>
+          </ul>
+        </div>
+
+        <div class="summary-block">
+          <h3>Saved Builds</h3>
+          <div id="savedBuildsList" class="saved-builds-list">
+            <p class="muted">No saved builds yet.</p>
+          </div>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <div id="partModal" class="modal hidden">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div>
+          <h2 id="modalTitle">Choose Part</h2>
+          <p id="modalSubtitle">Browse components</p>
+        </div>
+        <button id="closeModalBtn" class="icon-btn">&times;</button>
+      </div>
+
+      <div class="modal-toolbar">
+        <input id="searchInput" type="text" placeholder="Search parts..." />
+        <select id="brandFilter">
+          <option value="all">All Brands</option>
+        </select>
+        <select id="sortSelect">
+          <option value="price-asc">Price: Low to High</option>
+          <option value="price-desc">Price: High to Low</option>
+          <option value="name-asc">Name: A to Z</option>
+          <option value="wattage-desc">Wattage: High to Low</option>
+        </select>
+      </div>
+
+      <div id="modalResults" class="modal-results"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

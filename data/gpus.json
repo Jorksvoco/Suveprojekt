@@ -1,0 +1,200 @@
+[
+  {
+    "id": "gpu-nvidia-rtx-3050",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 3050",
+    "chipset": "RTX 3050",
+    "vram": 8,
+    "memory_type": "GDDR6",
+    "board_power": 130,
+    "length_mm": 242,
+    "price": 219.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-3060",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 3060",
+    "chipset": "RTX 3060",
+    "vram": 12,
+    "memory_type": "GDDR6",
+    "board_power": 170,
+    "length_mm": 242,
+    "price": 279.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4060",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4060",
+    "chipset": "RTX 4060",
+    "vram": 8,
+    "memory_type": "GDDR6",
+    "board_power": 115,
+    "length_mm": 245,
+    "price": 299.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4060-ti-8gb",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4060 Ti 8GB",
+    "chipset": "RTX 4060 Ti",
+    "vram": 8,
+    "memory_type": "GDDR6",
+    "board_power": 160,
+    "length_mm": 250,
+    "price": 399.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4060-ti-16gb",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4060 Ti 16GB",
+    "chipset": "RTX 4060 Ti",
+    "vram": 16,
+    "memory_type": "GDDR6",
+    "board_power": 165,
+    "length_mm": 250,
+    "price": 449.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4070",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4070",
+    "chipset": "RTX 4070",
+    "vram": 12,
+    "memory_type": "GDDR6X",
+    "board_power": 200,
+    "length_mm": 285,
+    "price": 549.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4070-super",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4070 SUPER",
+    "chipset": "RTX 4070 SUPER",
+    "vram": 12,
+    "memory_type": "GDDR6X",
+    "board_power": 220,
+    "length_mm": 300,
+    "price": 599.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4070-ti-super",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4070 Ti SUPER",
+    "chipset": "RTX 4070 Ti SUPER",
+    "vram": 16,
+    "memory_type": "GDDR6X",
+    "board_power": 285,
+    "length_mm": 305,
+    "price": 799.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4080-super",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4080 SUPER",
+    "chipset": "RTX 4080 SUPER",
+    "vram": 16,
+    "memory_type": "GDDR6X",
+    "board_power": 320,
+    "length_mm": 310,
+    "price": 999.99
+  },
+  {
+    "id": "gpu-nvidia-rtx-4090",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 4090",
+    "chipset": "RTX 4090",
+    "vram": 24,
+    "memory_type": "GDDR6X",
+    "board_power": 450,
+    "length_mm": 336,
+    "price": 1599.99
+  },
+  {
+    "id": "gpu-amd-rx-6600",
+    "brand": "AMD",
+    "name": "Radeon RX 6600",
+    "chipset": "RX 6600",
+    "vram": 8,
+    "memory_type": "GDDR6",
+    "board_power": 132,
+    "length_mm": 190,
+    "price": 199.99
+  },
+  {
+    "id": "gpu-amd-rx-6650-xt",
+    "brand": "AMD",
+    "name": "Radeon RX 6650 XT",
+    "chipset": "RX 6650 XT",
+    "vram": 8,
+    "memory_type": "GDDR6",
+    "board_power": 176,
+    "length_mm": 240,
+    "price": 249.99
+  },
+  {
+    "id": "gpu-amd-rx-7600",
+    "brand": "AMD",
+    "name": "Radeon RX 7600",
+    "chipset": "RX 7600",
+    "vram": 8,
+    "memory_type": "GDDR6",
+    "board_power": 165,
+    "length_mm": 245,
+    "price": 269.99
+  },
+  {
+    "id": "gpu-amd-rx-7700-xt",
+    "brand": "AMD",
+    "name": "Radeon RX 7700 XT",
+    "chipset": "RX 7700 XT",
+    "vram": 12,
+    "memory_type": "GDDR6",
+    "board_power": 245,
+    "length_mm": 302,
+    "price": 419.99
+  },
+  {
+    "id": "gpu-amd-rx-7800-xt",
+    "brand": "AMD",
+    "name": "Radeon RX 7800 XT",
+    "chipset": "RX 7800 XT",
+    "vram": 16,
+    "memory_type": "GDDR6",
+    "board_power": 263,
+    "length_mm": 320,
+    "price": 499.99
+  },
+  {
+    "id": "gpu-amd-rx-7900-gre",
+    "brand": "AMD",
+    "name": "Radeon RX 7900 GRE",
+    "chipset": "RX 7900 GRE",
+    "vram": 16,
+    "memory_type": "GDDR6",
+    "board_power": 260,
+    "length_mm": 304,
+    "price": 549.99
+  },
+  {
+    "id": "gpu-amd-rx-7900-xt",
+    "brand": "AMD",
+    "name": "Radeon RX 7900 XT",
+    "chipset": "RX 7900 XT",
+    "vram": 20,
+    "memory_type": "GDDR6",
+    "board_power": 315,
+    "length_mm": 320,
+    "price": 749.99
+  },
+  {
+    "id": "gpu-amd-rx-7900-xtx",
+    "brand": "AMD",
+    "name": "Radeon RX 7900 XTX",
+    "chipset": "RX 7900 XTX",
+    "vram": 24,
+    "memory_type": "GDDR6",
+    "board_power": 355,
+    "length_mm": 330,
+    "price": 949.99
+  }
+]

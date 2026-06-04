@@ -1,0 +1,142 @@
+[
+  {
+    "id": "psu-evga-600br",
+    "brand": "EVGA",
+    "name": "600 BR 600W",
+    "wattage": 600,
+    "efficiency": "Bronze",
+    "modular": false,
+    "form_factor": "ATX",
+    "price": 59.99
+  },
+  {
+    "id": "psu-corsair-cx650m",
+    "brand": "Corsair",
+    "name": "CX650M 650W",
+    "wattage": 650,
+    "efficiency": "Bronze",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 74.99
+  },
+  {
+    "id": "psu-msi-mag-a650bn",
+    "brand": "MSI",
+    "name": "MAG A650BN 650W",
+    "wattage": 650,
+    "efficiency": "Bronze",
+    "modular": false,
+    "form_factor": "ATX",
+    "price": 64.99
+  },
+  {
+    "id": "psu-corsair-rm650e",
+    "brand": "Corsair",
+    "name": "RM650e 650W",
+    "wattage": 650,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 89.99
+  },
+  {
+    "id": "psu-corsair-rm750e",
+    "brand": "Corsair",
+    "name": "RM750e 750W 80+ Gold",
+    "wattage": 750,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 99.99
+  },
+  {
+    "id": "psu-bequiet-750w",
+    "brand": "be quiet!",
+    "name": "Pure Power 12 M 750W",
+    "wattage": 750,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 109.99
+  },
+  {
+    "id": "psu-msi-a750gl",
+    "brand": "MSI",
+    "name": "MAG A750GL PCIE5 750W",
+    "wattage": 750,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 104.99
+  },
+  {
+    "id": "psu-seasonic-focus-gx-750",
+    "brand": "Seasonic",
+    "name": "FOCUS GX-750",
+    "wattage": 750,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 119.99
+  },
+  {
+    "id": "psu-bequiet-850w",
+    "brand": "be quiet!",
+    "name": "Pure Power 12 M 850W",
+    "wattage": 850,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 129.99
+  },
+  {
+    "id": "psu-corsair-rm850x",
+    "brand": "Corsair",
+    "name": "RM850x 850W",
+    "wattage": 850,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 139.99
+  },
+  {
+    "id": "psu-seasonic-focus-gx-850",
+    "brand": "Seasonic",
+    "name": "FOCUS GX-850",
+    "wattage": 850,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 144.99
+  },
+  {
+    "id": "psu-msi-a850gl",
+    "brand": "MSI",
+    "name": "MAG A850GL PCIE5 850W",
+    "wattage": 850,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 129.99
+  },
+  {
+    "id": "psu-corsair-rm1000e",
+    "brand": "Corsair",
+    "name": "RM1000e 1000W",
+    "wattage": 1000,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 169.99
+  },
+  {
+    "id": "psu-seasonic-vertex-gx-1000",
+    "brand": "Seasonic",
+    "name": "VERTEX GX-1000",
+    "wattage": 1000,
+    "efficiency": "Gold",
+    "modular": true,
+    "form_factor": "ATX",
+    "price": 199.99
+  }
+]

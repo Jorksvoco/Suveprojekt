@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cooler-deepcool-ak400",
+    "brand": "DeepCool",
+    "name": "AK400",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 155,
+    "radiator_size_mm": null,
+    "price": 29.99
+  },
+  {
+    "id": "cooler-deepcool-ak620",
+    "brand": "DeepCool",
+    "name": "AK620",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 160,
+    "radiator_size_mm": null,
+    "price": 59.99
+  },
+  {
+    "id": "cooler-thermalright-pa120se",
+    "brand": "Thermalright",
+    "name": "Peerless Assassin 120 SE",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 155,
+    "radiator_size_mm": null,
+    "price": 36.99
+  },
+  {
+    "id": "cooler-thermalright-phantom-spirit",
+    "brand": "Thermalright",
+    "name": "Phantom Spirit 120 SE",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 154,
+    "radiator_size_mm": null,
+    "price": 39.99
+  },
+  {
+    "id": "cooler-noctua-u12s-redux",
+    "brand": "Noctua",
+    "name": "NH-U12S redux",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 158,
+    "radiator_size_mm": null,
+    "price": 49.99
+  },
+  {
+    "id": "cooler-noctua-d15",
+    "brand": "Noctua",
+    "name": "NH-D15",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 165,
+    "radiator_size_mm": null,
+    "price": 109.99
+  },
+  {
+    "id": "cooler-bequiet-dark-rock-pro-5",
+    "brand": "be quiet!",
+    "name": "Dark Rock Pro 5",
+    "type": "Air",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": 168,
+    "radiator_size_mm": null,
+    "price": 99.99
+  },
+  {
+    "id": "cooler-corsair-h100i",
+    "brand": "Corsair",
+    "name": "iCUE H100i Elite Capellix XT",
+    "type": "Liquid",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": null,
+    "radiator_size_mm": 240,
+    "price": 149.99
+  },
+  {
+    "id": "cooler-arctic-liquid-freezer-240",
+    "brand": "ARCTIC",
+    "name": "Liquid Freezer III 240",
+    "type": "Liquid",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": null,
+    "radiator_size_mm": 240,
+    "price": 89.99
+  },
+  {
+    "id": "cooler-arctic-liquid-freezer-360",
+    "brand": "ARCTIC",
+    "name": "Liquid Freezer III 360",
+    "type": "Liquid",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": null,
+    "radiator_size_mm": 360,
+    "price": 119.99
+  },
+  {
+    "id": "cooler-nzxt-kraken-240",
+    "brand": "NZXT",
+    "name": "Kraken 240",
+    "type": "Liquid",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": null,
+    "radiator_size_mm": 240,
+    "price": 139.99
+  },
+  {
+    "id": "cooler-lianli-galahad-ii-360",
+    "brand": "Lian Li",
+    "name": "Galahad II Trinity 360",
+    "type": "Liquid",
+    "socket_support": ["AM5", "LGA1700"],
+    "height_mm": null,
+    "radiator_size_mm": 360,
+    "price": 159.99
+  }
+]
