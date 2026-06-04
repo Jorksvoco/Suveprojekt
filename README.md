@@ -17,5 +17,7 @@ npm
 Ava terminal / PowerShell ja kirjuta:
 
 `bash
+
 node -v
+
 npm -v
