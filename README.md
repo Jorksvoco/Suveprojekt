@@ -9,7 +9,7 @@ Projekt töötab lokaalselt sinu arvutis.
 
 Enne projekti käivitamist peab arvutis olemas olema:
 
-Node.js
+Node.js,
 npm
 
 # Kontrolli, kas need on olemas
